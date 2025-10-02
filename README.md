@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+# Download App From Here 👉👉👉 [Download APK](https://github.com/Sky121122/U-Umpire-app/releases/latest/download/Umpire.apk)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
